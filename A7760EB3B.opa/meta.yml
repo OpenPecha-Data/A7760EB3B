@@ -1,0 +1,22 @@
+id: A7760EB3B
+title: 'Nāgārjuna: Vigrahavyāvartanīvṛtti'
+type: translation
+pechas:
+- IF6CDFB11
+- I507F3ECF
+- I1EE4BBE6
+- IBC510934
+source_metadata:
+  languages:
+  - sa
+  - zh
+  - bo
+  - en
+  datatype: PlainText
+  created_at: 2023-02-10 00:34:27.419908
+  last_modified_at: 2023-02-10 00:34:27.419932
+alignment_to_base:
+  IF6CDFB11/8A2B: 8B19
+  I507F3ECF/52DA: 8B19
+  I1EE4BBE6/F6DF: 8B19
+  IBC510934/319A: 8B19
